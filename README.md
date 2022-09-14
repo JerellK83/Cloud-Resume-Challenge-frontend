@@ -6,7 +6,7 @@ URL: https://cloudresume.novemberflame.page
 
 ## Frontend
 
-Template contains HTML, CSS, Bootstrap 4 Grid system and Javascript.
+Used a CV Template from Angry Studio: https://angrystudio.com/themes/puro-free-bootstrap-4-cv-template-for-developers/ . Template contains HTML, CSS, Bootstrap 4 Grid system and Javascript.
 
 ## CI/CD
 
